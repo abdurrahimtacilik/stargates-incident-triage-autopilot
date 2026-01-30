@@ -100,6 +100,23 @@ simple incidents resolve quickly, while complex incidents trigger deeper analysi
 
 ---
 
+## 📊 Observability & Runtime Metrics
+
+StarGates exposes runtime metrics through IBM watsonx Orchestrate agent analytics.
+
+During end-to-end incident workflows:
+- Multiple specialized agents are invoked in a controlled sequence
+- Agent-to-agent communication completes with zero failed messages
+- Latency reflects intentional multi-agent reasoning and orchestration
+
+Sample metrics observed during testing:
+- Agents: 4 (Sentinel, Evidence Collector, RCA, system agent)
+- Failed messages: 0
+- Average end-to-end latency: ~5–6 seconds
+
+This trade-off prioritizes correctness, explainability, and safe delegation over raw speed, which is appropriate for enterprise incident response workflows.
+
+
 ## 🎥 Demo
 
 A short demo video demonstrates:
