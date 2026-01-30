@@ -41,7 +41,7 @@ See: `docs/architecture.md`
 ## 🎥 Demo
 
 A full video demonstration is available here:  
-👉 *(xxxx add public video URL)*
+👉 Demo video will be added before final submission.
 
 ---
 
