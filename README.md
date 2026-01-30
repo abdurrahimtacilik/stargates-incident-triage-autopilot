@@ -1,2 +1,7 @@
-# stargates-incident-triage-autopilot
-StarGates is an agentic AI system built with IBM watsonx Orchestrate that automatically transforms unstructured incident alerts into prioritized action plans, evidence summaries, and ticket drafts by orchestrating multiple specialized AI agents in a single operational workflow.
+{
+  "incident_id": "INC-1023",
+  "service": "payment-service",
+  "alert": "High latency detected in payment-service API",
+  "timestamp": "2026-01-29T14:22:00Z",
+  "severity": "unknown"
+}
