@@ -54,7 +54,7 @@ See: `docs/architecture.md`
 ## 🎥 Demo
 
 A full video demonstration is available here:  
-👉 *(Add your public video URL)*
+👉 *(xxxx add public video URL)*
 
 ---
 
