@@ -25,19 +25,6 @@ This project demonstrates how agentic AI can be applied to real enterprise workf
 
 ---
 
-## 🚀 Proje Özeti (TR)
-
-StarGates, IBM watsonx Orchestrate kullanılarak geliştirilen agentic AI tabanlı bir proof-of-concept projedir. Amaç, yapılandırılmamış incident alarmlarını otomatik olarak aksiyona dönüştürülebilir çıktılara çevirmektir.
-
-Tek bir alarm girdisi ile sistem:
-1. Ciddiyet ve etkiyi belirler  
-2. Uygun runbook’u seçer  
-3. Tool’lar aracılığıyla kanıt toplar  
-4. Kök neden hipotezleri üretir  
-5. Aksiyon listesi ve ticket taslağı oluşturur  
-
----
-
 ## 🧠 Architecture
 
 StarGates uses a multi-agent architecture:
