@@ -125,8 +125,7 @@ A short demo video demonstrates:
 - Evidence-based reasoning  
 - Structured incident outputs  
 
-👉 *Demo video will be added before final submission.*
-
+👉 *Demo video : https://drive.google.com/file/d/1ooQTdeJqOirzqIp4Uf9Hxdwu2cRykJCx/view?usp=sharing
 ---
 
 ## 📁 Repository Structure
